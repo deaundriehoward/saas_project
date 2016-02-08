@@ -12,7 +12,7 @@ group :production do
 end
 
 #Use Bootsrtap-Sass for Responsive Design
-gem 'bootstrap-sass', '3.3.1'
+gem 'bootstrap-sass', '3.3.6'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'

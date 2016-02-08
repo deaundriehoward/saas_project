@@ -14,6 +14,9 @@ end
 #Use Bootsrtap-Sass for Responsive Design
 gem 'bootstrap-sass', '3.3.6'
 
+#Font-Awesome for amazing icons
+gem 'font-awesome-sass', '4.2.0'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets

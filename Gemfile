@@ -14,6 +14,9 @@ end
 #Use Bootsrtap-Sass for Responsive Design
 gem 'bootstrap-sass', '3.3.6'
 
+# Devise Gem for User Authentication 
+gem 'devise', '~> 3.5', '>= 3.5.6'
+
 #Font-Awesome for amazing icons
 gem 'font-awesome-sass', '4.5.0'
 
